@@ -1,5 +1,6 @@
 <?php
 return [
+    'adminEmail' => 'admin@example.com',
     // token有效期是否验证 默认验证
     'user.accessTokenValidity' => true,
     // api接口token有效期 默认 2 小时
